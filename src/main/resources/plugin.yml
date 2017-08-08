@@ -1,0 +1,7 @@
+name: VoxelSG
+description: Generic Survival Game Plugin
+author: spammy23
+authors: [spammy23]
+version: 1.0
+main: me.ezeh.vgl.SurvivalGames
+depend: [VoxelGamesLib]
